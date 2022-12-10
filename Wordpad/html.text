@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Website</title>
+    <link rel="stylesheet" href="C:\Users\kaye\Desktop\web_sys\style.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="max-width">
+            <div class="logo"><a href="#">My<span>Website</span></a></div>
+            <ul class ="menu">
+                <li><a href="#">HOME</a></li>
+                <li><a href="#">ABOUT</a></li>
+                <li><a href="#">PORTFOLIO</a></li>
+                <li><a href="#">SKILLS</a></li>
+                <li><a href="#">CONTACT</a></li>
+            </ul>
+            <div class="menu-btn">
+                <i class="fas fa-bars"></i>
+            </div>
+        </div>
+    </nav>
+
+    <section class="home" id="home">
+        <div class="max-width">
+            <div class="home-content">
+                <div class="text-1">Hello my name is</div>
+                <div class="text-2">Shekyna S. Balason</div>
+                <div class="text-3">BS in <span>Computer Science</span></div>
+            </div>
+        </div>
+    </section>
+
+    <p>I am currently an Undergraduate student of Bachelor of Science in Computer Science at Batangas State University. 
+        I was born in Albuquerque, New Mexico. I learned everything I needed to know there. Everything that has to do with life that is. I started my education there and I will continue it where ever I go. My educational background was just as normal and fun like any other kids. But I was the unique child that made my education different and more enjoyable. My learning process has five processes: elementary, middle, high school, college, and the future.
+        The teachers taught me well, while my peers taught me more about life. I made my best friends in middle school and we are a family now. I cherished the time I spent in middle school. I was a top student who was doing well, had many friends, and was making a name for myself in sports and extracurricular activities. Then once again graduation rolled around and I had to leave all of the good things behind. But I was ready to embark on an education that was more geared towards my future. 
+    </p>
+    <script src="C:\Users\kaye\Desktop\web_sys\script.js"></script>
+
+</body>
+
+</html>
