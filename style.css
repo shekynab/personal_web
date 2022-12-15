@@ -423,9 +423,13 @@ header .navbar ul li a:hover{
     border-right: 2px solid black;
     width: 6ch;
 }
-
-
-
+.script2{
+    animation: type2 1s steps(112);
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 2px solid black;
+    width: 112ch;
+}
 @keyframes type1{
     0%{
         width: 0ch;
@@ -434,6 +438,19 @@ header .navbar ul li a:hover{
         width: 6ch;
     }
 }
+
+@keyframes type2{
+    0%{
+        width: 0ch;
+    }
+    100%{
+        width: 112ch;
+    }
+}
+
+
+
+
 
 
 
@@ -517,5 +534,3 @@ header .navbar ul li a:hover{
         transform: rotateX(0);
     }
  }
-
- 
